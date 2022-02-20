@@ -4,5 +4,3 @@ hello
 everyone
 git
 github
-understand
-lol
